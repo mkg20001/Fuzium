@@ -57,7 +57,7 @@
     "dragula": "^3.7.2",
     "electron-devtools-installer": "^2.2.0",
     "electron-spawn": "^5.0.0",
-    "extend": "^3.0.1",
+    "extend": "^3.0.2",
     "extsprintf": "^1.3.0",
     "file-loader": "^0.11.2",
     "file-watcher": "^0.0.2",
