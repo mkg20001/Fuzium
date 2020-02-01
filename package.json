@@ -51,7 +51,7 @@
     "asynckit": "^0.4.0",
     "aws4": "^1.6.0",
     "commander": "~2.11.0",
-    "configstore": "~3.1.0",
+    "configstore": "~5.0.0",
     "cross-unzip": "^0.2.1",
     "dexie": "^1.5.1",
     "dragula": "^3.7.2",
